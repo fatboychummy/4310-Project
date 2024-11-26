@@ -1,0 +1,6 @@
+bank_marketing
+results.csv
+.venv
+__pycache__
+bank-additional-full.csv
+bank-full.csv
